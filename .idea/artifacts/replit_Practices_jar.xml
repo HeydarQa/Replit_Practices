@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="replit_Practices:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/replit_Practices_jar</output-path>
+    <root id="archive" name="replit_Practices.jar">
+      <element id="module-output" name="replit_Practices" />
+    </root>
+  </artifact>
+</component>
