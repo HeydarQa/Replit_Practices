@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Replit053_VehicleRecall {
     public static void main(String[] args) {
         Scanner scan=new Scanner(System.in);
-        System.out.println("Enter vehicle's year:");
+        System.out.println("Enter vehicle'Strings.s year:");
         int vehicleYear=scan.nextInt();
         switch (vehicleYear){
             case 1995:

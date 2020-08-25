@@ -45,7 +45,7 @@ public class OOP_4_calcII_223 {
         a.setY(1);
         a.plus();
         System.out.println("1+1 = "+ a.getResult());//1+1 = 2
-*/
 
+*/
     }
 }

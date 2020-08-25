@@ -52,7 +52,7 @@ public class Replit_RealEstate047 {
 
 
             if (garageSpots > 10) {
-                System.out.println("Pardon,  it's not a public parking!");
+                System.out.println("Pardon,  it'Strings.s not a public parking!");
                 System.out.println(propertyPrice + "-----");
 
             } else {
@@ -90,7 +90,7 @@ public class Replit_RealEstate047 {
 
             System.out.println(propertyPrice + "********");
 
-            System.out.println("What's the rating of nearest school?");
+            System.out.println("What'Strings.s the rating of nearest school?");
             float schoolScore = scan.nextFloat();
 
             if (schoolScore > 8 && schoolScore <= 10) {

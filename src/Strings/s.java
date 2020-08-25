@@ -1,3 +1,5 @@
+package Strings;
+
 import javax.sound.midi.Soundbank;
 
 public class s {

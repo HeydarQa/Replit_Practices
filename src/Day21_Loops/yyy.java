@@ -54,7 +54,7 @@ public class yyy {
 
 
             if (garageSpots > 10) {
-                System.out.println("Pardon, it's not a public parking!");
+                System.out.println("Pardon, it'Strings.s not a public parking!");
 
 
             } else {
@@ -91,7 +91,7 @@ public class yyy {
 
 
 
-            System.out.println("What's the rating of nearest school?");
+            System.out.println("What'Strings.s the rating of nearest school?");
             schoolScore = scan.nextFloat();
 
 
